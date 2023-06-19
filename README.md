@@ -1,8 +1,5 @@
-## Olá, eu sou o Pedro Dalalio!
-
-### 👨‍💻 -Desenvolvedor Backend 
-
-### 👨‍🏫 -Estudante Eng. de Software
+Olá, eu sou o Pedro Dalalio!
+Tenho 19 anos e sou estudante de Engenharia de Software e sou desenvolvedor PHP.
 
 <div align="center">
   <a href="https://github.com/pedrodalalio" target="_blank">
