@@ -1,5 +1,8 @@
-Olá, eu sou o Pedro Dalalio!
-Tenho 19 anos e sou estudante de Engenharia de Software e sou desenvolvedor PHP.
+🇧🇷 - Olá, me chamo Pedro Dalalio!
+Tenho 19 anos e sou estudante de Engenharia de Software. Atualmente sou desenvolvedor PHP e JS. Porém estudando constantemente outras linguagens/frameworks, como NodeJS.
+
+🇺🇸 - Hello, my name is Pedro Dalalio!
+Im 19 years old and a Software Engineering student. Im currently a PHP and JS dev. However, constantly studying other languages/frameworks, such as NodeJS.
 
 <div style="display: flex;" align="center">
   <div>
