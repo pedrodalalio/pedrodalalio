@@ -1,8 +1,8 @@
 🇧🇷 - Olá, me chamo Pedro Dalalio!
-Tenho 19 anos e sou estudante de Engenharia de Software. Atualmente sou desenvolvedor PHP e JS. Porém estudando constantemente outras linguagens/frameworks, como NodeJS.
+Tenho 20 anos e sou estudante de Engenharia de Software. Atualmente sou desenvolvedor NodeJS e React.
 
 🇺🇸 - Hello, my name is Pedro Dalalio!
-Im 19 years old and a Software Engineering student. Im currently a PHP and JS dev. However, constantly studying other languages/frameworks, such as NodeJS.
+Im 20 years old and a Software Engineering student. Im currently a NodeJS and React dev.
 
 <div style="display: flex;" align="center">
   <div>
