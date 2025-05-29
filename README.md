@@ -1,8 +1,8 @@
 <h1 align="center">Olá, me chamo Pedro Dalalio! 👋</h1>
-<p align="center">Tenho 20 anos e sou estudante de Engenharia de Software. Atualmente sou desenvolvedor focado em Node.js e React.</p>
+<p align="center">Tenho 21 anos e sou estudante de Engenharia de Software. Atualmente sou desenvolvedor focado em Node.js e React.</p>
 
 <h1 align="center">Hello, my name is Pedro Dalalio! 👋</h1>
-<p align="center">I'm 20 years old and a Software Engineering student. Currently, I'm focused on Node.js and React development.</p>
+<p align="center">I'm 21 years old and a Software Engineering student. Currently, I'm focused on Node.js and React development.</p>
 
 ---
 
