@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  🚀 Atualmente, estou sempre buscando novos desafios e aprendizados no universo do desenvolvimento web e backend!
+  🚀 Sempre em busca de novos desafios e aprendizados no universo do desenvolvimento web e backend!
 </p>
 
 <p align="center">
